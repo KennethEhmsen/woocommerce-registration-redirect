@@ -13,9 +13,9 @@
  * WC tested up to: 3.2.0
  */
 
-function custom_registration_redirect() {
+function wc_custom_registration_redirect() {
     wp_logout();
     wp_destroy_current_session();
     return home_url('/');
 }
-add_action('woocommerce_registration_redirect', 'custom_registration_redirect', 99);
+add_action('woocommerce_registration_redirect', 'wc_custom_registration_redirect', 99);
