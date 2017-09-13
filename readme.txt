@@ -18,7 +18,7 @@ WooCommerce Registration Redirect will logout and redirect a user if they enable
 
 = What does the plugin do? =
 
-The default in WooCommerce ends up being if create account during checkout is enabled, it will create account for that user and automatically login that user.
+The default in WooCommerce ends up being if create account during checkout is enabled, it will create account for that user and automatically login that user. This plugin after registration in WooCommerce will logout the user and redirect to the home page of the site.
 
 == Installation ==
 
