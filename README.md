@@ -1,4 +1,4 @@
-# woocommerce Registration Redirect
+# WooCommerce Registration Redirect
 
 After registration, logout the user and redirect to home page in WooCommerce.
 
