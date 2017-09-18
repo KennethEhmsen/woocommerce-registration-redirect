@@ -1,5 +1,5 @@
 === WooCommerce Registration Redirect ===
-Contributors: liquidweb
+Contributors: liquidweb, lukefiretoss
 Tags: woocommerce, registration, redirect, logout
 Requires at least: 4.6
 Tested up to: 4.8.1
